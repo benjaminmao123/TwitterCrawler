@@ -1,13 +1,3 @@
-# CS172 Final Project
-
-## Team Info
-Group: **Lolipop**
-
-Member and Work Division: 
-- Alexander Wilkins (Part 1)
-- Benjamin Mao(Part 2)
-- Qicheng Hu (Part 3)  
-
 ## How to Run
 
 
